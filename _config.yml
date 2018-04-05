@@ -1,8 +1,8 @@
 # Site settings
 title: Randy Morlen's Blog
 description: 'Support Engineer, System Engineer. Splunk.'
-url: 'https://rmorlen.io'
-enforce_ssl: rmorlen.io
+url: 'https://rmorlen.github.io'
+enforce_ssl: rmorlen.github.io
 baseurl: ''
 google_analytics: ''
 
