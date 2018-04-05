@@ -1,0 +1,41 @@
+# Site settings
+title: Randy Morlen's Blog
+description: 'Support Engineer, System Engineer. Splunk.'
+url: 'https://rmorlen.io'
+enforce_ssl: rmorlen.io
+baseurl: ''
+google_analytics: ''
+
+author:
+  name: 'Randy Morlen'
+  email: rrmtx07@gmail.com
+  twitter_username: rmorlen
+  github_username:  rmorlen
+  linkedin_username:  rmorlen
+
+# Build settings
+destination: _site
+permalink: /:title
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-gist
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - screenshot.png
+  - _vendor
