@@ -20,3 +20,4 @@ The Splunk AWS App can be downloaded [here](https://splunkbase.splunk.com/app/12
 Make sure you have installed [docker-compose](https://docs.docker.com/compose/install/).
 
 {% highlight bash %}
+{% endhighlight %}
