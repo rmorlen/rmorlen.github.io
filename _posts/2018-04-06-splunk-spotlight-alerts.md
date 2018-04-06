@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Splunk Spotlight - Alerts
-date: 2017-08-04T13:37:00.000Z
+date: 2018-04-06T13:05:00.000Z
 comments: true
 description: We take a close look at alerting in Splunk, including sending nice Slack notifications.
 ---
+
+{% highlight bash %}
+I copied this blog post from Matthew Hodgkins Blog located at: [Matthew Hodgkins](https://hodgkins.io/)
+{% endhighlight %}
 
 Once you have your data in Splunk, you often come across situations when you would like to be notified when something happens (or doesn't).
 

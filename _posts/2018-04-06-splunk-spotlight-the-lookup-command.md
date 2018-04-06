@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Splunk Spotlight - The Lookup Command
-date: 2017-07-02T13:37:00.000Z
+date: 2018-04-06T13:10:00.000Z
 comments: true
 description: We take a close look at the Splunk lookup command, including examples of where you might use it for enriching your logs and using CIDR matching.
 ---
+
+{% highlight bash %}
+I copied this blog post from Matthew Hodgkins Blog located at: [Matthew Hodgkins](https://hodgkins.io/)
+{% endhighlight %}
 
 Splunk is an amazing logging aggregation and searching tool. Even though I've been using it a few months now, I feel like I am just scratching the surface of what it can do.
 
